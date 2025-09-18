@@ -1,1 +1,2 @@
-print("MY first commit")
+print("This is my first time using GitHub")
+print("Sample.py")
